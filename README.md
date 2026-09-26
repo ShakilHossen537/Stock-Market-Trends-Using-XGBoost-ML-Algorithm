@@ -166,9 +166,7 @@ GitHub repository containing project source code
 
 # Project Structure
 
-Zomato-Stock-Price-Prediction/
-
-│
+Zomato-Stock-Price-Prediction/│
 ├── dataset/
 │   └── zomato.csv
 
