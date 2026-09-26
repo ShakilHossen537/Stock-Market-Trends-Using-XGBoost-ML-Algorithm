@@ -85,7 +85,7 @@ Measures the average absolute difference between actual and predicted values.
 R² Score
 Measures how much of the variation in stock prices is explained by the model.
 
-Results & Analysis
+# Results & Analysis
 
 The XGBoost model was used to predict Zomato stock prices on unseen data.
 
@@ -167,6 +167,7 @@ GitHub repository containing project source code
 # Project Structure
 
 Zomato-Stock-Price-Prediction/
+
 │
 ├── dataset/
 │   └── zomato.csv
